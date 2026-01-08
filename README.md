@@ -48,3 +48,9 @@ PulseCountDown helps users manage time easily for:
 | Min SDK | 21+ |
 
 ---
+## 📥 Installation
+
+```bash
+git clone https://github.com/ishanwalia7579/Android-PulseCountDown.git
+```
+
