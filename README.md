@@ -53,4 +53,12 @@ PulseCountDown helps users manage time easily for:
 ```bash
 git clone https://github.com/ishanwalia7579/Android-PulseCountDown.git
 ```
-
+📂 Project Structure
+```
+app/
+ ┣ ui/
+ ┣ timer/
+ ┣ animations/
+ ┣ utils/
+ ┗ sound/
+```
