@@ -14,3 +14,14 @@ PulseCountDown helps users manage time easily for:
 - Exams  
 - Meditation  
 - Daily routine tasks  
+---
+
+## ✨ Key Features
+
+- ⏱️ Start, Pause & Reset timer  
+- 💓 Pulse animation while countdown  
+- 🔔 Sound alert on timer completion  
+- 🌙 Dark Mode support  
+- ⚡ Lightweight & fast  
+- 📱 Clean Material UI  
+- 🔋 Battery efficient  
