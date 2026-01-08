@@ -25,3 +25,14 @@ PulseCountDown helps users manage time easily for:
 - ⚡ Lightweight & fast  
 - 📱 Clean Material UI  
 - 🔋 Battery efficient  
+
+
+---
+
+## 📸 App Screenshots
+
+| Timer | Dark Mode | Alert |
+|------|----------|------|
+| ![](screenshots/timer.png) | ![](screenshots/dark.png) | ![](screenshots/alert.png) |
+
+---
