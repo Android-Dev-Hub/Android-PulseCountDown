@@ -36,3 +36,15 @@ PulseCountDown helps users manage time easily for:
 | ![](screenshots/timer.png) | ![](screenshots/dark.png) | ![](screenshots/alert.png) |
 
 ---
+
+
+## 🛠️ Tech Stack
+
+| Tool | Used |
+|-----|-----|
+| Language | Kotlin |
+| IDE | Android Studio |
+| UI | XML + Material Design |
+| Min SDK | 21+ |
+
+---
