@@ -62,3 +62,46 @@ app/
  ┣ utils/
  ┗ sound/
 ```
+👨‍🎓 Who Can Use This App?
+
+Students
+
+Gym users
+
+Home users
+
+Anyone who needs a timer
+
+🚧 Upcoming Features
+
+Multiple timers
+
+Vibration alert
+
+Voice commands
+
+Custom ringtones
+
+Full screen alert
+
+👨‍💻 Developer
+
+Ishan Walia
+📍 Mandi, Himachal Pradesh
+🔗 GitHub: https://github.com/ishanwalia7579
+
+🔗 LinkedIn: https://www.linkedin.com/in/ishanwalia/
+
+⭐ Support
+
+If you like this project, please ⭐ star the repository and share it with your friends ❤️
+
+📜 License
+
+This project is licensed under the MIT License.
+
+
+---
+
+Bas isko GitHub me `README.md` file me paste karo  
+and project **100% professional look** le lega 🚀
